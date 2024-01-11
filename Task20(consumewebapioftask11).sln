@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task20(consumewebapioftask11)", "Task20(consumewebapioftask11).csproj", "{A7331A00-8083-4615-8948-B8CD1B2DAEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit(tas11)", "..\xunit(tas11)\xunit(tas11).csproj", "{6A638B98-3E88-4FC9-B76E-96EE0AE72268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7331A00-8083-4615-8948-B8CD1B2DAEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7331A00-8083-4615-8948-B8CD1B2DAEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7331A00-8083-4615-8948-B8CD1B2DAEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7331A00-8083-4615-8948-B8CD1B2DAEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A638B98-3E88-4FC9-B76E-96EE0AE72268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A638B98-3E88-4FC9-B76E-96EE0AE72268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A638B98-3E88-4FC9-B76E-96EE0AE72268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A638B98-3E88-4FC9-B76E-96EE0AE72268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F34BCF-11B4-4D4F-A939-1E7E98347944}
+	EndGlobalSection
+EndGlobal
